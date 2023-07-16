@@ -1,13 +1,11 @@
 # TBILungBlock
 Tungsten filled 3D printed lung blocks for total body irradiation
 
-This repository is an implementation of "[An integrated quality assurance phantom for frameless single-isocenter multitarget stereotactic radiosurgery.](https://doi.org/10.1088/1361-6560/ab8534)" in the _Physics in Medicine and Biology_ 2020 by Dante Capaldi and colleagues.
+This repository is an implementation of "[Tungsten filled 3D printed lung blocks for total body irradiation.](https://capaldi.ucsf.edi)" submitted to the _Physics in Medicine and Biology_ by Dante Capaldi and colleagues.
 
 <p align="center">
-  <img width="720" height="348" src="https://github.com/capaldid/OneIso/blob/master/OneIso_Figure.png">
+  <img width="720" height="348" src="https://github.com/capaldid/OneIso/blob/master/3DTBILungBlocks.png">
 </p>
-
-You can find the [User Guide here](https://oneiso.wordpress.com).
 
 ## Files and Documentation
 
