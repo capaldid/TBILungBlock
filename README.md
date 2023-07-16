@@ -4,7 +4,7 @@ Tungsten filled 3D printed lung blocks for total body irradiation
 This repository is an implementation of "[Tungsten filled 3D printed lung blocks for total body irradiation.](https://capaldi.ucsf.edi)" submitted to the _Physics in Medicine and Biology_ by Dante Capaldi and colleagues.
 
 <p align="center">
-  <img width="720" height="348" src="https://github.com/capaldid/TBILungBlock/blob/master/3DTBILungBlocks.png">
+  <img width="720" height="348" src="https://github.com/capaldid/TBILungBlock/blob/main/3DTBILungBlocks.png">
 </p>
 
 ## Files and Documentation
