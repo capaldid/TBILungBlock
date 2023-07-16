@@ -7,27 +7,13 @@ This repository is an implementation of "[Tungsten filled 3D printed lung blocks
   <img width="720" height="348" src="https://github.com/capaldid/TBILungBlock/blob/main/3DTBILungBlocks.png">
 </p>
 
-## Files and Documentation
+## Overview of Matlab Script
 
-OneIso supporting documents are provided.
+3D printed lung blocks, filled with tungsten BBs, are created via a Matlab script, where the input is a Radiation Therapy (RT) Plan DICOM file.  The output is STL files used for 3D printing.
 
-```
-Excel Sheet to Calculate the Point Dose:
-- src\Chamber Measurement SRS Phantom Template May 2020.xlsx
-
-```
-
-## Citation
-
-```
-@article{capaldi2020integrated,
-  title={An integrated quality assurance phantom for frameless single-isocenter multitarget stereotactic radiosurgery},
-  author={Capaldi, Dante PI and Skinner, Lawrie B and Dubrowski, Piotr and Amy, S Yu},
-  journal={Physics in Medicine \& Biology},
-  year={2020},
-  publisher={IOP Publishing}
-}
-```
+<p align="center">
+  <img width="720" height="348" src="https://github.com/capaldid/TBILungBlock/blob/main/MatlabScriptOverview.png">
+</p>
 
 ## License
 
