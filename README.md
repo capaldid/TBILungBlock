@@ -4,7 +4,7 @@ Tungsten filled 3D printed lung blocks for total body irradiation
 This repository is an implementation of "[Tungsten filled 3D printed lung blocks for total body irradiation.](https://capaldi.ucsf.edi)" submitted to the _Physics in Medicine and Biology_ by Dante Capaldi and colleagues.
 
 <p align="center">
-  <img width="720" height="348" src="https://github.com/capaldid/TBILungBlock/blob/main/3DTBILungBlocks.png">
+  <img width="720" height="348" src="https://github.com/capaldid/TBILungBlock/blob/main/3DTBILungBlocks.jpg">
 </p>
 
 ## Overview of Matlab Script
@@ -12,7 +12,7 @@ This repository is an implementation of "[Tungsten filled 3D printed lung blocks
 3D printed lung blocks, filled with tungsten BBs, are created via a Matlab script, where the input is a Radiation Therapy (RT) Plan DICOM file.  The output is STL files used for 3D printing.
 
 <p align="center">
-  <img width="720" height="348" src="https://github.com/capaldid/TBILungBlock/blob/main/MatlabScriptOverview.png">
+  <img width="720" height="348" src="https://github.com/capaldid/TBILungBlock/blob/main/MatlabScriptOverview.jpg">
 </p>
 
 ## License
