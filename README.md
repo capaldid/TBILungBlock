@@ -15,6 +15,19 @@ This repository is an implementation of "[Tungsten filled 3D printed lung blocks
   <img width="720" height="348" src="https://github.com/capaldid/TBILungBlock/blob/main/MatlabScriptOverview.jpg">
 </p>
 
+## Requirements
+
+- MATLAB 2022b or newer
+- Radiation Therapy (RT) plan DICOM file (with lung blocks drawn)
+
+## Files and Documentation
+
+The code is provided.
+
+```
+src\LungBlockGeneration_final.m
+```
+
 ## License
 
 MIT License
