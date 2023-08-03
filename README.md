@@ -20,14 +20,28 @@ This repository is an implementation of "[Tungsten filled 3D printed lung blocks
 - MATLAB 2022b or newer
 - Radiation Therapy (RT) plan DICOM file (with lung blocks drawn)
 
+
+## Files and Documentation
+
+The code is provided for lung blocks creation.
+
+```
+src\LungBlockGeneration_final.m
+```
+
+## Overview of Python Script
+
+3D printed lung blocks for extended field standing TBI procedure.
+
+## Requirements
+
 - Python 3.9
 
 ## Files and Documentation
 
-The code is provided for both versions of lung blocks.
+The code is provided for standing lung blocks creation.
 
 ```
-src\LungBlockGeneration_final.m
 src\LungBlockGeneration_StandingPython.py
 ```
 
