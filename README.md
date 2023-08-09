@@ -31,7 +31,7 @@ src\LungBlockGeneration_final.m
 
 ## Overview of Python Script
 
-3D printed lung blocks for extended field standing TBI procedure.
+3D printed lung blocks for extended field standing TBI procedure, courtesy of J. Schulz.
 
 ## Requirements
 
